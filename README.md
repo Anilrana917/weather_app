@@ -1,4 +1,6 @@
-# This site is hosted on the given url: https://weath-dev.netlify.app
+# This site is hosted on the url: 
+
+https://weath-dev.netlify.app
 
 # Getting Started with Create React App
 
